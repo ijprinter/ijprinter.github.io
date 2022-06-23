@@ -1,9 +1,9 @@
 # Canon.com/ijsetup
 
 
-#  [Get Started Here](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 
+ [![canon.com/ijsetup](Get-Started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 
 Through the guidelines in this article, we will explain the process to setup a Canon printer via [canon.com/ijsetup](https://ijprinter.github.io/) be it wired or wirelessly on your Windows and Mac operating systems.
